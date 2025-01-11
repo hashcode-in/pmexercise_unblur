@@ -1,6 +1,8 @@
 # PM Unblur Chrome Extension
 
 A Chrome extension that improves readability by removing blur/paywall elements and making content properly scrollable.
+Works on sites like: https://www[dot]productmanagementexercises[dot]com/
+[To be used only for educational purpose]
 
 ## Features
 
